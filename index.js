@@ -30,9 +30,6 @@ function MainContent() {
               able to fit in with the cool kids!</li>
               <li>I'm more likely to get a job as a developer
               if I know React</li>
-              <li>It's intresting learning react its a completely new way of writing code</li>
-              <li>There are so much things i love about react</li>
-          </ol>
       </div>
   )
 }
